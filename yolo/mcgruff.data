@@ -1,0 +1,5 @@
+classes= 1
+train  = /data/users/qepz/mcgruff/train.txt
+valid  = /data/users/qepz/mcgruff/test.txt
+names = /data/users/mcgruff/raccoon.names
+backup = /data/users/mcgruff/backup

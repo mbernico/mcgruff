@@ -5,7 +5,7 @@ from pathlib import Path
 image_dir = str(Path.cwd().joinpath('labeled_data'))
 
 # Directory where the data will reside, relative to 'darknet.exe'
-path_data = '/data/users/qepz/mcgruff/'
+path_data = '/data/users/qepz/mcgruff/labeled_data'
 
 # Percentage of images to be used for the test set
 percentage_test = 10;
